@@ -3,7 +3,7 @@ import React from 'react';
 import './App.css'; 
 
 
-import TaskList from './componentes/TaskList'; // Importa el componente TaskList
+import TaskList from './componentes/TaskList'; 
 
 function App() {
     return (
